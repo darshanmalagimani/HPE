@@ -54,6 +54,7 @@ Create a `.env` file as described above.
 jupyter notebook
 ```
 Execute the notebooks in the following order:
+
 1️⃣ **BucketCreation.ipynb**  
 2️⃣ **BucketPopulation.ipynb**  
 3️⃣ **BucketRetrieval.ipynb**  
